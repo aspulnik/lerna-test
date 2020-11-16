@@ -1,6 +1,6 @@
 {
   "name": "proj-a",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "scripts": {
     "start": "yarn serve",
     "serve": "vue-cli-service serve",
