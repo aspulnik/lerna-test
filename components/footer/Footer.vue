@@ -2,7 +2,7 @@
  <footer>
     <h1>{{ title }}</h1>
     <p>Posted by XXX v3</p>
-    <p>Some additional information here</p>
+    <p>Some additional information herea</p>
   </footer>
 </template>
 
