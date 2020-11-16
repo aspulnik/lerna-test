@@ -857,6 +857,11 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
+"@customlibrary/footer@^0.0.8":
+  version "0.0.8"
+  resolved "http://localhost:4873/@customlibrary%2ffooter/-/footer-0.0.8.tgz#6fa54f5ff1a09ab788fa1453f512d5ad63c049c7"
+  integrity sha512-+BcStfwGUbKe1k6W2dfCWBE1z8KpJhnhV6yd3EE4Vfa/miwLlaRA1pr1ct4F9NL8RrUNCoX3XUMpG8XDSK2r6w==
+
 "@evocateur/libnpmaccess@^3.1.2":
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/@evocateur/libnpmaccess/-/libnpmaccess-3.1.2.tgz#ecf7f6ce6b004e9f942b098d92200be4a4b1c845"
