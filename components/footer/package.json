@@ -7,5 +7,5 @@
   "scripts": {
     "transpile": "vue-cli-service build --target lib ./src/index.js"
   },
-  "gitHead": "d4808970a0dd2a2e62de96b5ec4673e1abf86888"
+  "gitHead": "90a30073c48ae20deaa0f93bcda29b6e5f65ffa7"
 }
