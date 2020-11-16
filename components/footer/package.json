@@ -1,6 +1,6 @@
 {
   "name": "@doosanlibrary/footer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Shared",
   "main": "dist/index.js",
   "module": "src/index.js",
