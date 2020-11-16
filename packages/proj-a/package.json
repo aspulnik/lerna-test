@@ -1,6 +1,6 @@
 {
   "name": "proj-a",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "scripts": {
     "start": "yarn serve",
     "serve": "vue-cli-service serve",
@@ -8,8 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@customlibrary/footer": "^0.0.3",
-    "@customlibrary/header": "^0.0.3",
+    "@customlibrary/footer": "^0.0.4",
+    "@customlibrary/header": "^0.0.4",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },

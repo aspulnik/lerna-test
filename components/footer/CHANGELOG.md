@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.0.4 (2020-11-16)
+
+**Note:** Version bump only for package @customlibrary/footer
+
+
+
+
+
 ## [0.0.3](https://github.com/aspulnik/lerna-test/compare/@doosanlibrary/footer@0.0.2...@doosanlibrary/footer@0.0.3) (2020-11-16)
 
 **Note:** Version bump only for package @doosanlibrary/footer
