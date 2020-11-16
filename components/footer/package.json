@@ -1,5 +1,5 @@
 {
-  "name": "@doosanlibrary/footer",
+  "name": "@customlibrary/footer",
   "version": "0.0.3",
   "description": "Shared",
   "main": "dist/index.js",
