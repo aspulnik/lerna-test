@@ -1,6 +1,6 @@
 {
   "name": "proj-a",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": true,
   "scripts": {
     "start": "yarn serve",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@doosanlibrary/footer": "^0.0.3",
-    "@doosanlibrary/header": "^0.0.1",
+    "@doosanlibrary/header": "^0.0.2",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
