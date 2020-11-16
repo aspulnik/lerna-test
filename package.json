@@ -1,0 +1,17 @@
+{
+  "name": "202001611_2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "babel-loader": "^8.2.1",
+    "lerna": "^3.22.1"
+  },
+  "workspaces": [
+    "packages/*",
+    "components/*"
+  ],
+  "dependencies": {}
+}
