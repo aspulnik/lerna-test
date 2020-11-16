@@ -1,6 +1,6 @@
 {
   "name": "@customlibrary/header",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Shared",
   "main": "dist/index.js",
   "module": "src/index.js",
