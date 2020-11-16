@@ -1,10 +1,10 @@
 {
-    "name": "@doosanlibrary/header",
-    "version": "0.0.0",
-    "description": "Shared",
-    "main": "dist/index.js",
-    "module": "src/index.js",
-    "scripts": {
-      "transpile": "vue-cli-service build --target lib ./src/index.js"
-    }
+  "name": "@doosanlibrary/header",
+  "version": "0.0.1",
+  "description": "Shared",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "transpile": "vue-cli-service build --target lib ./src/index.js"
   }
+}
