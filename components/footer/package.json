@@ -1,6 +1,5 @@
 {
   "name": "@customlibrary/footer",
-  "version": "0.0.16-frozen.4",
   "description": "Shared",
   "main": "dist/index.js",
   "module": "src/index.js",
