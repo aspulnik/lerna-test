@@ -1,11 +1,11 @@
 {
   "name": "@customlibrary/footer",
-  "version": "0.0.15",
+  "version": "0.0.16-frozen.1",
   "description": "Shared",
   "main": "dist/index.js",
   "module": "src/index.js",
   "scripts": {
     "transpile": "vue-cli-service build --target lib ./src/index.js"
   },
-  "gitHead": "403778c30fbc7250b55faf2c6e33cd7e81425991"
+  "gitHead": "ef3435e6778d507c0743b48298d5c930d744dea2"
 }
