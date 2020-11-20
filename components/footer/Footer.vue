@@ -1,7 +1,7 @@
 <template>
  <footer>
     <h1>{{ title }}</h1>
-    <p>Buh bye !!!!!</p>
+    <p>Buh bye !!!!1!</p>
     <p>Some additional information here</p>
   </footer>
 </template>
