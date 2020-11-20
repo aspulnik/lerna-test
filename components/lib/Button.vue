@@ -1,14 +1,14 @@
 <template>
- <footer>
+ <header>
     <h1>{{ title }}</h1>
-    <p>Buh bye !!!!</p>
+    <p>Header _ by XXX</p>
     <p>Some additional information here</p>
-  </footer>
+  </header>
 </template>
 
 <script>
 export default {
-  name: 'Footer',
+  name: 'Header',
   props: {
     title: {
       type: String,
