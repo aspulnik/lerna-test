@@ -9,7 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@customlibrary/footer": "^0.0.15",
+    "@customlibrary/footer": "^0.0.17",
     "@customlibrary/header": "0.0.9",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
