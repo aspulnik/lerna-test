@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.17](https://github.com/aspulnik/lerna-test/compare/@customlibrary/footer@0.0.16-frozen.4...@customlibrary/footer@0.0.17) (2020-11-20)
+
+**Note:** Version bump only for package @customlibrary/footer
+
+
+
+
+
 ## [0.0.16-frozen.4](https://github.com/aspulnik/lerna-test/compare/@customlibrary/footer@0.0.16-frozen.3...@customlibrary/footer@0.0.16-frozen.4) (2020-11-20)
 
 **Note:** Version bump only for package @customlibrary/footer
