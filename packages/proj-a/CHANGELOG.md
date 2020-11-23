@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/aspulnik/lerna-test/compare/proj-a@0.3.0...proj-a@0.4.0) (2020-11-23)
+
+**Note:** Version bump only for package proj-a
+
+
+
+
+
 # [0.3.0](https://github.com/aspulnik/lerna-test/compare/proj-a@0.2.1-beta.0...proj-a@0.3.0) (2020-11-23)
 
 **Note:** Version bump only for package proj-a
