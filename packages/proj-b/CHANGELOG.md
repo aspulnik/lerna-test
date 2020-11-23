@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/aspulnik/lerna-test/compare/proj-b@0.1.17...proj-b@0.2.0) (2020-11-23)
+
+**Note:** Version bump only for package proj-b
+
+
+
+
+
 ## [0.1.17](https://github.com/aspulnik/lerna-test/compare/proj-b@0.1.16...proj-b@0.1.17) (2020-11-20)
 
 **Note:** Version bump only for package proj-b
