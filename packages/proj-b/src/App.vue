@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Header title="Test" />
-    <img alt="Vue logo" src="./assets/logo.png">
+    d<img alt="Vue logo" src="./assets/logo.png">
     <Footer title="Test Footer" />
   </div>
 </template>
