@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0](https://github.com/aspulnik/lerna-test/compare/@customlibrary/header@0.4.0-next.0...@customlibrary/header@1.0.0) (2020-12-02)
+
+
+### Bug Fixes
+
+* footer ([7e6bdb5](https://github.com/aspulnik/lerna-test/commit/7e6bdb51772a2414d1d98defeed96cb1d2fb02e9))
+
+
+
+
+
 # [0.4.0-next.0](https://github.com/aspulnik/lerna-test/compare/@customlibrary/header@0.3.0...@customlibrary/header@0.4.0-next.0) (2020-12-01)
 
 **Note:** Version bump only for package @customlibrary/header
