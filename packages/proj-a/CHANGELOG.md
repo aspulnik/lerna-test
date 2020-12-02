@@ -3,6 +3,46 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0-okta.2020.10.0](https://github.com/aspulnik/lerna-test/compare/proj-a@1.0.0...proj-a@1.2.0-okta.2020.10.0) (2020-12-02)
+
+**Note:** Version bump only for package proj-a
+
+
+
+
+
+# [1.2.0-okta.2020.10.0](https://github.com/aspulnik/lerna-test/compare/proj-a@1.0.0...proj-a@1.2.0-okta.2020.10.0) (2020-12-02)
+
+**Note:** Version bump only for package proj-a
+
+
+
+
+
+# [1.2.0-okta.2020.10.0.0](https://github.com/aspulnik/lerna-test/compare/proj-a@1.0.0...proj-a@1.2.0-okta.2020.10.0.0) (2020-12-02)
+
+**Note:** Version bump only for package proj-a
+
+
+
+
+
+# [1.2.0-okta.2020.10.0.0](https://github.com/aspulnik/lerna-test/compare/proj-a@1.0.0...proj-a@1.2.0-okta.2020.10.0.0) (2020-12-02)
+
+**Note:** Version bump only for package proj-a
+
+
+
+
+
+# [1.1.0-dmiq.2020.10.0.0](https://github.com/aspulnik/lerna-test/compare/proj-a@1.0.0...proj-a@1.1.0-dmiq.2020.10.0.0) (2020-12-02)
+
+**Note:** Version bump only for package proj-a
+
+
+
+
+
 # [1.0.0](https://github.com/aspulnik/lerna-test/compare/proj-a@0.5.0-next.0...proj-a@1.0.0) (2020-12-02)
 
 **Note:** Version bump only for package proj-a

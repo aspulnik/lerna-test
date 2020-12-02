@@ -3,6 +3,61 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0-okta.2020.10.0](https://github.com/aspulnik/lerna-test/compare/proj-b@1.0.0...proj-b@1.2.0-okta.2020.10.0) (2020-12-02)
+
+
+### Bug Fixes
+
+* app2 ([352ae8e](https://github.com/aspulnik/lerna-test/commit/352ae8e197fb6c540b328b67f0e84f11e71754b4))
+
+
+
+
+
+# [1.2.0-okta.2020.10.0](https://github.com/aspulnik/lerna-test/compare/proj-b@1.0.0...proj-b@1.2.0-okta.2020.10.0) (2020-12-02)
+
+
+### Bug Fixes
+
+* app2 ([352ae8e](https://github.com/aspulnik/lerna-test/commit/352ae8e197fb6c540b328b67f0e84f11e71754b4))
+
+
+
+
+
+# [1.2.0-okta.2020.10.0.0](https://github.com/aspulnik/lerna-test/compare/proj-b@1.0.0...proj-b@1.2.0-okta.2020.10.0.0) (2020-12-02)
+
+
+### Bug Fixes
+
+* app2 ([352ae8e](https://github.com/aspulnik/lerna-test/commit/352ae8e197fb6c540b328b67f0e84f11e71754b4))
+
+
+
+
+
+# [1.2.0-okta.2020.10.0.0](https://github.com/aspulnik/lerna-test/compare/proj-b@1.0.0...proj-b@1.2.0-okta.2020.10.0.0) (2020-12-02)
+
+
+### Bug Fixes
+
+* app2 ([352ae8e](https://github.com/aspulnik/lerna-test/commit/352ae8e197fb6c540b328b67f0e84f11e71754b4))
+
+
+
+
+
+# [1.1.0-dmiq.2020.10.0.0](https://github.com/aspulnik/lerna-test/compare/proj-b@1.0.0...proj-b@1.1.0-dmiq.2020.10.0.0) (2020-12-02)
+
+
+### Bug Fixes
+
+* app2 ([352ae8e](https://github.com/aspulnik/lerna-test/commit/352ae8e197fb6c540b328b67f0e84f11e71754b4))
+
+
+
+
+
 # [1.0.0](https://github.com/aspulnik/lerna-test/compare/proj-b@0.5.0-next.0...proj-b@1.0.0) (2020-12-02)
 
 **Note:** Version bump only for package proj-b

@@ -1,6 +1,6 @@
 {
   "name": "proj-a",
-  "version": "1.0.0",
+  "version": "1.2.0-okta.2020.10.0",
   "private": true,
   "scripts": {
     "start": "yarn serve",
