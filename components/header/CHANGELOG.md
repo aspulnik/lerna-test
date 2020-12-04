@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/aspulnik/lerna-test/compare/@customlibrary/header@1.0.0...@customlibrary/header@1.0.1) (2020-12-04)
+
+
+### Bug Fixes
+
+* app2 ([5bc708d](https://github.com/aspulnik/lerna-test/commit/5bc708d906d713a57ddd9b94a995f08a7d7fed58))
+
+
+
+
+
 # [1.0.0](https://github.com/aspulnik/lerna-test/compare/@customlibrary/header@0.4.0-next.0...@customlibrary/header@1.0.0) (2020-12-02)
 
 
