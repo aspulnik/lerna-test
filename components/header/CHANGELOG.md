@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.9.4](https://github.com/aspulnik/lerna-test/compare/v1.9.3...v1.9.4) (2020-12-07)
+
+
+### Bug Fixes
+
+* app2asdas ([eb53c96](https://github.com/aspulnik/lerna-test/commit/eb53c9605862e0c9d0ca3380ab5567b098d67d92))
+
+
+
+
+
 ## [1.9.3](https://github.com/aspulnik/lerna-test/compare/v1.9.2...v1.9.3) (2020-12-07)
 
 
