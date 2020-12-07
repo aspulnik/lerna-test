@@ -2,7 +2,7 @@
  <header>
     <h1>{{ title }}</h1>
     <p>Welcome1dd11</p>
-    <p>Some addfitional informat1iodn here</p>
+    <p>Some addfitional informat1iod1n here</p>
   </header>
 </template>
 
