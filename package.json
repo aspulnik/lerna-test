@@ -12,8 +12,5 @@
   "workspaces": [
     "packages/*",
     "components/*"
-  ],
-  "dependencies": {
-    "@customlibrary/header": "1.9.2"
-  }
+  ]
 }

@@ -853,11 +853,6 @@
   resolved "http://localhost:4873/@customlibrary%2ffooter/-/footer-0.0.15.tgz#722246a889c97ac566a79223e8c23cde659e6510"
   integrity sha512-GwxMh2EZE8P3QHgk+a6uZkD6UWS6YbIHiXZABuoKBkwfXwrOjtSWX4LHsmDxeTEa+xA61cnRAIvLm78FIV6Kvw==
 
-"@customlibrary/header@0.0.10-frozen.16":
-  version "0.0.10-frozen.16"
-  resolved "http://localhost:4873/@customlibrary%2fheader/-/header-0.0.10-frozen.16.tgz#52c7340a7461fe2ba70d9bdf75b50c777deabd85"
-  integrity sha512-QfzwW3O4JUdLAKrrP+T0yK+F6Lz2HaeU5Fh2q1u7BhMh8HpxYhPK1qibowIOaIW0Q4q+dlGxbcfGEuP3sWGmCA==
-
 "@customlibrary/header@1.9.2":
   version "1.9.2"
   resolved "http://localhost:4873/@customlibrary%2fheader/-/header-1.9.2.tgz#6a3b3c1bc39cb06aba627980baa121601e090761"
