@@ -1,11 +1,14 @@
 {
   "name": "@customlibrary/header",
-  "version": "1.9.2",
+  "version": "1.7.0",
   "description": "Shared",
   "main": "dist/index.js",
   "module": "src/index.js",
   "scripts": {
     "transpile": "vue-cli-service build --target lib ./src/index.js"
   },
-  "gitHead": "fb6a10e6303b6d37cd2a7aa513e6ce56f7f86d7b"
+  "gitHead": "9c84ee6b34dff9ee6f76ec08283411a7761e641c",
+  "dependencies": {
+    "@customlibrary/header": "1.9.2"
+  }
 }
