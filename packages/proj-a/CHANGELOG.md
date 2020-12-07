@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 1.3.1 (2020-12-07)
+
+
+### Bug Fixes
+
+* app2 ([18f6217](https://github.com/aspulnik/lerna-test/commit/18f62179152c820d69d35e376d14bfd80d824fe2))
+* app2 ([1df6341](https://github.com/aspulnik/lerna-test/commit/1df63410f4392a7ced71ab158aa817d855534c22))
+* app2 ([2cfdcb1](https://github.com/aspulnik/lerna-test/commit/2cfdcb18c27e52a3b9980d640ba9451127e40cd5))
+* app2 ([ba1dab1](https://github.com/aspulnik/lerna-test/commit/ba1dab1637850201fdc54b85a9bb125ff1fca743))
+
+
+
+
+
 # [1.3.0-dmiq.2020.11.1](https://github.com/aspulnik/lerna-test/compare/proj-a@1.3.0-dmiq.2020.11.0...proj-a@1.3.0-dmiq.2020.11.1) (2020-12-04)
 
 **Note:** Version bump only for package proj-a
