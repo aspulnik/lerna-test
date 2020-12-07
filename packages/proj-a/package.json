@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@customlibrary/footer": "1.9.2",
-    "@customlibrary/header": "^1.9.4",
+    "@customlibrary/header": "1.9.4",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
