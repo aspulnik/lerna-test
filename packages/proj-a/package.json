@@ -1,6 +1,6 @@
 {
   "name": "proj-a",
-  "version": "1.3.1",
+  "version": "1.4.0-app1.0",
   "private": true,
   "scripts": {
     "start": "yarn serve",
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@customlibrary/footer": "^1.0.0",
-    "@customlibrary/header": "^1.0.1",
+    "@customlibrary/header": "^1.4.0-app1.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
