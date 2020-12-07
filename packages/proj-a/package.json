@@ -1,6 +1,6 @@
 {
   "name": "proj-a",
-  "version": "1.8.0-app1.0",
+  "version": "1.8.0-app1.2020.13.0",
   "private": true,
   "scripts": {
     "start": "yarn serve",
@@ -9,8 +9,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@customlibrary/footer": "*",
-    "@customlibrary/header": "^1.8.0-app1.0",
+    "@customlibrary/footer": "^1.8.0-app1.2020.13.0",
+    "@customlibrary/header": "^1.8.0-app1.2020.13.0",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },

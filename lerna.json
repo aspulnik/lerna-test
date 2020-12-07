@@ -3,7 +3,7 @@
     "packages/*",
     "components/*"
   ],
-  "version": "1.8.0-app1.0",
+  "version": "1.8.0-app1.2020.13.0",
   "npmClient": "yarn",
   "useWorkspaces": true,
   "command": {
