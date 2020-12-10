@@ -2,7 +2,7 @@
  <header>
     <h1>{{ title }}</h1>
     <p>Welcome1dd11</p>
-    <p>Some addfitional infdsormat1iod1dn here</p>
+    <p>Changed version</p>
   </header>
 </template>
 
